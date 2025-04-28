@@ -1,0 +1,14 @@
+/home/kaydee/RiderProjects/InputDisabler_M/InputDisabler_M/bin/Debug/net9.0/InputDisabler_M
+/home/kaydee/RiderProjects/InputDisabler_M/InputDisabler_M/bin/Debug/net9.0/InputDisabler_M.deps.json
+/home/kaydee/RiderProjects/InputDisabler_M/InputDisabler_M/bin/Debug/net9.0/InputDisabler_M.runtimeconfig.json
+/home/kaydee/RiderProjects/InputDisabler_M/InputDisabler_M/bin/Debug/net9.0/InputDisabler_M.dll
+/home/kaydee/RiderProjects/InputDisabler_M/InputDisabler_M/bin/Debug/net9.0/InputDisabler_M.pdb
+/home/kaydee/RiderProjects/InputDisabler_M/InputDisabler_M/obj/Debug/net9.0/InputDisabler_M.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaydee/RiderProjects/InputDisabler_M/InputDisabler_M/obj/Debug/net9.0/InputDisabler_M.AssemblyInfoInputs.cache
+/home/kaydee/RiderProjects/InputDisabler_M/InputDisabler_M/obj/Debug/net9.0/InputDisabler_M.AssemblyInfo.cs
+/home/kaydee/RiderProjects/InputDisabler_M/InputDisabler_M/obj/Debug/net9.0/InputDisabler_M.csproj.CoreCompileInputs.cache
+/home/kaydee/RiderProjects/InputDisabler_M/InputDisabler_M/obj/Debug/net9.0/InputDisabler_M.dll
+/home/kaydee/RiderProjects/InputDisabler_M/InputDisabler_M/obj/Debug/net9.0/refint/InputDisabler_M.dll
+/home/kaydee/RiderProjects/InputDisabler_M/InputDisabler_M/obj/Debug/net9.0/InputDisabler_M.pdb
+/home/kaydee/RiderProjects/InputDisabler_M/InputDisabler_M/obj/Debug/net9.0/InputDisabler_M.genruntimeconfig.cache
+/home/kaydee/RiderProjects/InputDisabler_M/InputDisabler_M/obj/Debug/net9.0/ref/InputDisabler_M.dll
